@@ -12,6 +12,7 @@ class Mahasiswa {
                " saya adalah jurusan / prodi " . $this->prodi . 
                " program.";
     }
+
 }
 
 // object mahasiswa 1
